@@ -1,7 +1,7 @@
 <br clear="both">
 
 <div align="center">
-  <img height="270" src="https://i.ibb.co.com/mtKGsfn/Your-paragraph-text.png"  />
+  <img height="270" src="https://github.com/wahedpro/wahedpro/blob/main/github-images.png"  />
 </div>
 
 ###
