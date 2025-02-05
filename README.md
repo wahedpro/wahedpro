@@ -56,7 +56,7 @@
 
 <div align="center">
   <img alt="my-stats" align="left" width="47%" src ="https://github-readme-stats.vercel.app/api?username=wahedpro"/>
-<img alt="my-language" align="left" height="175px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wahedpro&langs_count=8"/>
+  <img alt="my-language" align="left" height="175px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wahedpro&langs_count=4"/>
 </div>
 
 ###
